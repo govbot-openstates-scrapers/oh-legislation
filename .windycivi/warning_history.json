@@ -1,0 +1,10 @@
+{
+  "2026-10-02": {
+    "warning_count": 1,
+    "error_count": 1,
+    "skipped_count": 0,
+    "sample_warnings": [
+      "10:19:20 WARNING openstates: no session provided, using active sessions: {'136'}"
+    ]
+  }
+}
